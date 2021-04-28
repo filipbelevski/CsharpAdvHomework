@@ -14,5 +14,13 @@ namespace SEDC.CSharpAdv.Homework.Class02.Domain.Models
         }
         public List<int> Grades { get; set; }
 
+        public override string PrintUser()
+        {
+            foreach (int grade in Grades)
+            {
+                Console.Write(grade + " ,");
+            }
+            return string.Empty;
+        }
     }
 }

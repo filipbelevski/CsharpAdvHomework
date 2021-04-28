@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SEDC.CSharpAdv.Homework.Bonus.App", "SEDC.CSharpAdv.Homework.Bonus.App\SEDC.CSharpAdv.Homework.Bonus.App.csproj", "{B080CCAD-CB78-4BC0-80AB-C9566D47DF0C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SEDC.CSharpAdv.Homework.Bonus.Domain", "SEDC.CSharpAdv.Homework.Bonus.Domain\SEDC.CSharpAdv.Homework.Bonus.Domain.csproj", "{58ABA721-72EA-4FB8-876A-F414C9401894}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B080CCAD-CB78-4BC0-80AB-C9566D47DF0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B080CCAD-CB78-4BC0-80AB-C9566D47DF0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B080CCAD-CB78-4BC0-80AB-C9566D47DF0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B080CCAD-CB78-4BC0-80AB-C9566D47DF0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58ABA721-72EA-4FB8-876A-F414C9401894}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58ABA721-72EA-4FB8-876A-F414C9401894}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58ABA721-72EA-4FB8-876A-F414C9401894}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58ABA721-72EA-4FB8-876A-F414C9401894}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E32C6A47-5E71-4ACE-A297-A35A0E030AD5}
+	EndGlobalSection
+EndGlobal

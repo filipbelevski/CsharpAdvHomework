@@ -7,9 +7,5 @@ namespace SEDC.CSharpAdv.Homework.Class02.Domain.Interfaces
     public interface ITeacher : IUser
     {
         string Subject { get; set; }
-        string PrintUser()
-        {
-            return Subject;
-        }
     }
 }

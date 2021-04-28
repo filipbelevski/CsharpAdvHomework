@@ -14,7 +14,7 @@ namespace SEDC.CSharpAdv.Homework.Class02.Domain.Models
         }
         public string Subject {get; set; }
 
-        public string Printuser()
+        public override string PrintUser()
         {
             return Subject;
         }

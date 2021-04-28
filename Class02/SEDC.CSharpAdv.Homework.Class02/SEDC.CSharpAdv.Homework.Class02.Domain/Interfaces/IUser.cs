@@ -10,8 +10,6 @@ namespace SEDC.CSharpAdv.Homework.Class02.Domain.Interfaces
         string Name { get; set; }
         string UserName { get; set; }
         string Password { get; set; }
-        void PrintUser() {
-            Console.WriteLine($"{Name} {Id} {UserName}");
-        }
+        string PrintUser();
     }
 }

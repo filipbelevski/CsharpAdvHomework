@@ -18,5 +18,7 @@ namespace SEDC.CSharpAdv.Homework.Class02.Domain.Entities
         public string Name { get; set; }
         public string UserName { get; set; }
         public string Password { get; set; }
+
+        public abstract string PrintUser();
     }
 }
