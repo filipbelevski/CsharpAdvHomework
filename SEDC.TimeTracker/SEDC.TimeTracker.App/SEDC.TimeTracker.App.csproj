@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SEDC.TimeTracker.Data\SEDC.TimeTracker.Data.csproj" />
+    <ProjectReference Include="..\SEDC.TimeTracker.Services\SEDC.TimeTracker.Services.csproj" />
+  </ItemGroup>
+
+</Project>

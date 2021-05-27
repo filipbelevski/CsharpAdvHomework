@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31229.75
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SEDC.TimeTracker.App", "SEDC.TimeTracker.App\SEDC.TimeTracker.App.csproj", "{A00B930B-279E-4ED0-83A6-DE15CBE1A702}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SEDC.TimeTracker.Services", "SEDC.TimeTracker.Services\SEDC.TimeTracker.Services.csproj", "{756920A3-949C-4436-8FA1-43DAA03D6394}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SEDC.TimeTracker.Data", "SEDC.TimeTracker.Data\SEDC.TimeTracker.Data.csproj", "{15F9CACA-700D-495D-B557-DE60E95F1535}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A00B930B-279E-4ED0-83A6-DE15CBE1A702}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A00B930B-279E-4ED0-83A6-DE15CBE1A702}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A00B930B-279E-4ED0-83A6-DE15CBE1A702}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A00B930B-279E-4ED0-83A6-DE15CBE1A702}.Release|Any CPU.Build.0 = Release|Any CPU
+		{756920A3-949C-4436-8FA1-43DAA03D6394}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{756920A3-949C-4436-8FA1-43DAA03D6394}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{756920A3-949C-4436-8FA1-43DAA03D6394}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{756920A3-949C-4436-8FA1-43DAA03D6394}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15F9CACA-700D-495D-B557-DE60E95F1535}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15F9CACA-700D-495D-B557-DE60E95F1535}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15F9CACA-700D-495D-B557-DE60E95F1535}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15F9CACA-700D-495D-B557-DE60E95F1535}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0441E24A-D875-4967-911B-E1FEC7D9BD03}
+	EndGlobalSection
+EndGlobal
